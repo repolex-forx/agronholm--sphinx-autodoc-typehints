@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/sphinx-autodoc-typehints/commit/af98022c1ec2c73bc5cf1c95ca88cec9cbcc1499",
       "git:hexsha": "af98022c1ec2c73bc5cf1c95ca88cec9cbcc1499",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
