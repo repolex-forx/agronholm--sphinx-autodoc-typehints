@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "sphinx-autodoc-typehints",
+  "versions": [
+    {
+      "commit": "af98022c1ec2c73bc5cf1c95ca88cec9cbcc1499",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:35:36.378910+00:00"
+    }
+  ]
+}
